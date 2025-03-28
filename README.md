@@ -15,7 +15,7 @@ Mis logros destacan en proyectos donde he implementado estrategias de pruebas qu
     <img decoding="async" src="https://img.shields.io/badge/SQL-0066CC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
     
     <!-- Selenium Logo -->
-    <img decoding="async" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="100"/>
+    <img decoding="async" src="https://osl.ugr.es/wp-content/uploads/2021/02/Selenium_Logo.png" width="100"/>
     
     <!-- Postman Logo -->
     <img decoding="async" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="100"/>
