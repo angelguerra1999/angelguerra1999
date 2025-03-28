@@ -10,10 +10,9 @@ Mis logros destacan en proyectos donde he implementado estrategias de pruebas qu
   </a>
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="selenium"/>
+ <img decoding="async" src="https://osl.ugr.es/wp-content/uploads/2021/02/Selenium_Logo.png"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="postman"/>
-  </a>
+ <img decoding="async" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcYJoetYqKxgVtDoFHN08qIF811Aglug-sw&s"
 
 </div>
  
