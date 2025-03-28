@@ -7,16 +7,4 @@ Mis logros destacan en proyectos donde he implementado estrategias de pruebas qu
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
-<div id="header" align="left">
-    <!-- Python Badge -->
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    
-    <!-- SQL Badge -->
-    <img decoding="async" src="https://img.shields.io/badge/SQL-0066CC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-    
-    <!-- Selenium Logo -->
-    <img decoding="async" src="https://osl.ugr.es/wp-content/uploads/2021/02/Selenium_Logo.png" width="100"/>
-    
-    <!-- Postman Logo -->
-    <img decoding="async" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="100"/>
-</div>
+ Postman -Jira - Pycharm - Git- Cmder - Sql -  Python -  Pytest - Selenium webdriver
