@@ -1,5 +1,7 @@
 Angel Guerra – QA Engineer
+
 👋 ¡Bienvenido a mi portafolio!
+
 Soy Angel Guerra, QA Engineer enfocado en garantizar la calidad del software a través de metodologías eficientes de testing manual y automatizado. Me especializo en la detección temprana de errores y en la mejora continua de procesos, asegurando productos confiables y eficientes.
 
 📫 Contacto
